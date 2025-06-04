@@ -1,4 +1,4 @@
-# Student Activity Detection System 🎓📚
+# Classroon Activity Tracker
 
 A smart classroom monitoring system using OpenCV and pretrained COCO model to detect various student activities in real-time. It enhances classroom engagement by dynamically providing visual feedback and alerts based on students' behavior.
 
@@ -38,9 +38,3 @@ A smart classroom monitoring system using OpenCV and pretrained COCO model to de
 - Processes real-time video feed from classroom cameras.  
 - Applies custom logic on detected classes like faces, hands, laptops, phones, and writing postures.  
 - Displays dynamic visual feedback and animated messages to improve student engagement and classroom discipline.
-
-## Installation 🚀
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Chiku-91/student-activity-detection.git
